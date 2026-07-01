@@ -1,0 +1,20 @@
+{
+  "name": "real-estate-trifecta",
+  "owner": {
+    "name": "Tracy with PorchLyte + Agent Social Haus",
+    "email": "tracy@porchlyte.com"
+  },
+  "description": "The Real Estate Trifecta: three skills for the three highest-stakes moments in an agent's business. Buyer Consultation, Listing Presentation, and Closing Day. Works best with the AI Agent Foundation installed. Install once, update automatically.",
+  "plugins": [
+    {
+      "name": "real-estate-trifecta",
+      "source": "./plugins/real-estate-trifecta",
+      "description": "The Real Estate Trifecta: three skills for the three highest-stakes moments in an agent's business. Buyer Consultation (win the buyer meeting), Listing Presentation (win the listing), and Closing Day (accepted offer to keys, and the follow-up after). Works best with the AI Agent Foundation plugin installed first.",
+      "author": {
+        "name": "Tracy with PorchLyte + Agent Social Haus"
+      },
+      "homepage": "https://porchlyte.com",
+      "license": "Proprietary — paid access required; see LICENSE"
+    }
+  ]
+}
