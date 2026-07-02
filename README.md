@@ -18,7 +18,7 @@ The [AI Agent Team](https://github.com/PorchLyte/porchlyte-agents) is not requir
 
 ## How to install
 
-In the Claude desktop app, open the **Cowork** tab and click **Customize**. Click the **+** next to **Personal plugins**, choose **Create plugin**, then **Add marketplace**, then **Add from a repository**, and paste in:
+In the Claude desktop app, click **Customize** in the left sidebar. Click the **+** next to **Personal plugins**, choose **Create plugin**, then **Add marketplace**, then **Add from a repository**, and paste in:
 
 ```
 PorchLyte/real-estate-trifecta
